@@ -7,8 +7,6 @@ int main()
 {
 	char seq[ 1000 ];
 	int len;
-	int i;
-	int charge = 0;
 
 	scanf("%s", seq);
 	len = strlen( seq );
