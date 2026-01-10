@@ -4,18 +4,6 @@ This repository contains exercises and assignments developed as part of the EBP1
 
 All code is written in C and reflects practical work completed during class sessions as well as the main course assignment.
 
-## Repository Structure
-EBP101/
-│
-├── Saturday/
-│   └── (C exercises completed during Saturday classes)
-│
-├── Sunday/
-│   └── (C exercises completed during Sunday classes)
-│
-└── ASSIGNMENT/
-    └── DNA/RNA ORF Finder (Exercise 1)
-    
 ## Folder Description
 
 ### Saturday
